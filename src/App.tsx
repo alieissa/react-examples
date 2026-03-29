@@ -11,7 +11,7 @@ function App() {
   return (
 
     <Router>
-      <nav>
+      <nav className='p-2'>
         <Link to="/">Home</Link> | <Link to="/users">Users</Link>
       </nav>
       <Routes>
