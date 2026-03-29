@@ -4,9 +4,7 @@ import './Home.css'
 const Home: React.FC = () => {
 
   return (
-    <div>
-      Home
-    </div>
+    <div> Home </div>
   )
 }
 
